@@ -1,0 +1,8 @@
+// These settings override both User and Default settings for the Markdown syntax
+{
+	"font_size": 14,
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+	"line_numbers": false,
+	"caret_style": "smooth"
+}

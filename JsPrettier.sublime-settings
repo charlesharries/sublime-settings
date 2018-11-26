@@ -1,0 +1,7 @@
+{
+  "auto_format_on_save": false,
+  "prettier_options": {
+    "trailingComma": "none",
+    "arrowParens": "always"
+  }
+}

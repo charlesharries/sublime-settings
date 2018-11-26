@@ -1,0 +1,38 @@
+{
+	"auto_complete": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Atlantic-Theme/Atlantic.tmTheme",
+	"draw_minimap_border": true,
+	"file_exclude_patterns":
+	[
+		"*.sql",
+		"*.log"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"node_modules"
+	],
+	"font_face": "Cousine",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom:": 1,
+	"line_padding_top": 1,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"scroll_past_end": true,
+	"show_definitions": false,
+	"spacegray_fileicons": true,
+	"tab_size": 2,
+	"theme": "DA.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

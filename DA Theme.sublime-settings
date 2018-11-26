@@ -1,0 +1,5 @@
+{
+	"accent_color": "$scheme_accent_color",
+	"title_bar_background_color": "#ffc600",
+	"title_bar_foreground_color": "$background_color"
+}
