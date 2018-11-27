@@ -26,5 +26,7 @@
       { "key": "preceding_text", "operator": "regex_match", "operand": ".*<$", "match_all": true },
       { "key": "setting.auto_close_tags" }
     ]
-  }
+  },
+  { "keys": ["alt+up"], "command": "swap_line_up" },
+  { "keys": ["alt+down"], "command": "swap_line_down" }
 ]
