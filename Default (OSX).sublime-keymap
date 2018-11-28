@@ -28,5 +28,9 @@
     ]
   },
   { "keys": ["alt+up"], "command": "swap_line_up" },
-  { "keys": ["alt+down"], "command": "swap_line_down" }
+  { "keys": ["alt+down"], "command": "swap_line_down" },
+  { "keys": ["super+shift+."], "command": "move", "args": { "by": "words", "forward": true } },
+  { "keys": ["super+shift+,"], "command": "move", "args": { "by": "words", "forward": false } },
+  { "keys": ["super+shift+alt+."], "command": "move", "args": { "by": "words", "forward": true, "extend": true } },
+  { "keys": ["super+shift+alt+,"], "command": "move", "args": { "by": "words", "forward": false, "extend": true } }
 ]
