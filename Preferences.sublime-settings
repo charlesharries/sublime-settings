@@ -17,6 +17,9 @@
 	"font_face": "Cousine",
 	"font_size": 12,
 	"highlight_line": true,
+	"indent_guide_options": [
+		"draw_active"
+	],
 	"ignored_packages":
 	[
 		"Vintage"
