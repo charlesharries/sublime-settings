@@ -1,7 +1,8 @@
 {
+  "prettier_cli_path": "/Users/charlesharries/.nvm/versions/node/v10.5.0/bin/prettier",
   "auto_format_on_save": true,
   "prettier_options": {
-    "trailingComma": "none",
+    "trailingComma": "es5",
     "arrowParens": "always"
   }
 }
