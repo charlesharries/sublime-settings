@@ -32,5 +32,10 @@
   { "keys": ["super+shift+."], "command": "move", "args": { "by": "words", "forward": true } },
   { "keys": ["super+shift+,"], "command": "move", "args": { "by": "words", "forward": false } },
   { "keys": ["super+shift+alt+."], "command": "move", "args": { "by": "words", "forward": true, "extend": true } },
-  { "keys": ["super+shift+alt+,"], "command": "move", "args": { "by": "words", "forward": false, "extend": true } }
+  { "keys": ["super+shift+alt+,"], "command": "move", "args": { "by": "words", "forward": false, "extend": true } },
+  { "keys": ["super+8"], "command": "move_to", "args": { "to": "eol", "extend": false } },
+  { "keys": ["super+7"], "command": "move_to", "args": { "to": "bol", "extend": false } },
+  { "keys": ["super+shift+7"], "command": "move_to", "args": { "to": "bol", "extend": true } },
+  { "keys": ["super+shift+8"], "command": "move_to", "args": { "to": "eol", "extend": true } },
+  { "keys": ["super+shift+h"], "command": "insert_snippet", "args": { "name": "Packages/User/html.sublime-snippet" } }
 ]

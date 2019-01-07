@@ -1,5 +1,8 @@
 {
 	"accent_color": "$scheme_accent_color",
 	"title_bar_background_color": "#ffc600",
-	"title_bar_foreground_color": "$background_color"
+	"title_bar_foreground_color": "$background_color",
+  "font_face": "Cousine",
+  "font_size": 12,
+  "sidebar_tree_row_padding": [18, 4]
 }
