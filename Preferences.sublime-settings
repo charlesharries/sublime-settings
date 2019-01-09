@@ -6,7 +6,8 @@
 	"file_exclude_patterns":
 	[
 		"*.sql",
-		"*.log"
+		"*.log",
+		".DS_Store"
 	],
 	"folder_exclude_patterns":
 	[
@@ -19,6 +20,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Cobalt2 Flat Theme",
 		"Vintage"
 	],
 	"indent_guide_options":
